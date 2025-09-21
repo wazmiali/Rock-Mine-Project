@@ -1,7 +1,5 @@
 # Rock-Mine-Project
 ---
-# Rock Mine Project
-
 ## Table of Contents
 
 * [About](#about)
