@@ -27,7 +27,7 @@ Goals of the project include:
 
 ---
 
-## Project Structure
+## Project Structure.
 
 Here is the layout of the repository:
 
@@ -63,7 +63,7 @@ Or using a virtual environment.
 
 ---
 
-## Getting Started
+## Getting Started.
 
 To run this project locally:
 
