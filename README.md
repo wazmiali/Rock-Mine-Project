@@ -53,7 +53,7 @@ The project uses Python (in a Jupyter notebook). Some of the typical libraries/t
 * `matplotlib` / `seaborn`
 * Any others used in the notebook (e.g. for model saving, metrics etc.)
 
-You may install dependencies via pip:
+You may install dependencies via pip
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
